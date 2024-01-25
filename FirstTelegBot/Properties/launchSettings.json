@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FirstTelegBot": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
